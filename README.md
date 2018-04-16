@@ -6,6 +6,7 @@
 ![Docker Build Status](https://img.shields.io/docker/build/fkromer/flawfinder.svg)
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/fkromer/flawfinder.svg)
 ![MicroBadger Layers](https://img.shields.io/microbadger/layers/fkromer/flawfinder.svg)
+[![Build Status](https://travis-ci.org/fkromer/docker-flawfinder.svg?branch=master)](https://travis-ci.org/fkromer/docker-flawfinder)
 
 [Flawfinder](https://pypi.python.org/pypi/flawfinder) (`v2.0.6`) dockerized into
 [python:2.7-alpine image](https://hub.docker.com/_/python/).
